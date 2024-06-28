@@ -1,0 +1,1 @@
+mysql -u usuario -pbanco_de_dados < arquivo.sql
